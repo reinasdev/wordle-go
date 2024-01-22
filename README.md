@@ -1,0 +1,2 @@
+# wordle-go
+wordle-go
