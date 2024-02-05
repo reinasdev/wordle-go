@@ -43,6 +43,7 @@ wordle-go is a simple and engaging implementation of the popular word-guessing g
   - Code 200: Success. Returns user attempts on the specified date.
   - Code 400: Bad request. Returns details of the error.
 - **example:** `/api/attempts/2024-01-22`
+- 
   ```json
   {
     "attempts": [
